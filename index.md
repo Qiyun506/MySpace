@@ -27,7 +27,7 @@ git commit -m XXX
 Ok so here is my [resume](https://resume.io/r/kIa5ISfnf)
 
 and this is my best friend's Cat! 
-[This is an image](e0a5f824cffda6ca6372570d873069e.jpg)
+![This is an image](e0a5f824cffda6ca6372570d873069e.jpg)
 
 For me, I like:
 - Boxing

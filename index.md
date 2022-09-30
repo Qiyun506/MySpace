@@ -36,12 +36,12 @@ For me, I like:
 - E-games！
 
 To be a good programmer, I still need those classes:
--[x] software 
--[x] data mining
--[ ] data base
--[ ] ML
--[ ] hardware
--[ ] To be continue...
+- [x] software 
+- [x] data mining
+- [ ] data base
+- [ ] ML
+- [ ] hardware
+- [ ] To be continue...
 
 
 Back to top, [GO](#this-is-me)
